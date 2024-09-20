@@ -1,7 +1,3 @@
-Here's an improved version of your README with more clarity, detail, and professionalism:
-
----
-
 # Multilingual Translator and Text Analysis Tool
 
 A user-friendly web application built with **Gradio** and **Hugging Face Transformers** to provide a suite of text processing functionalities, including translation, summarization, sentiment analysis, grammar correction, and character counting.
